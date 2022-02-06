@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
 
-  "name": "Skroutz Compare",
+  "name": "Crazy sundays price check",
   "description": "Skroutz prices for eshop crazy sundays",
-  "version": "1.1",
+  "version": "1.0",
 
-  "icons": { "16": "daisy_16.png",
-           "48": "daisy_48.png",
-          "128": "daisy_128.png" },  
+  "icons": { "16": "icon_16.png",
+           "48": "icon_48.png",
+          "128": "icon_128.png" },  
 
   "content_scripts": [
     {
